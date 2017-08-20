@@ -1,0 +1,110 @@
+﻿@using MvcFlashMessages
+@model ApiHack.Areas.Sistema.Models.LoginVM
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta charset="utf-8">
+    <title>Login | Tamo Junto</title>
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <meta property="og:title" content="">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="">
+    <meta property="og:site_name" content="">
+    <meta property="og:description" content="">
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="~/css/font-awesome.min.css">
+    <link rel="stylesheet" href="~/css/animate.css">
+    <link href='http://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900|Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="~/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/css/slick.css">
+    <link rel="stylesheet" href="~/css/main.css">
+    <script src="~/js/modernizr-2.7.1.js"></script>
+</head>
+<body>
+<header class="header-login">
+    <div class="nav-absolute">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-6">
+                    <a href="index.html"><img src="~/img/TMJ_Logo1_br.png" alt="Logo" class="img-responsive logo-img"></a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container height-100vh">
+        
+        @Html.RenderFlash()
+
+        <div class="row header-info m-b-0 height-100vh">
+            <div class="col-sm-6 bg-orange height-100vh text-center p-t-200">
+                <h1 class="wow fadeIn">Instrutor</h1>
+                <br/>
+                <div class="row">
+                    <div class="col-sm-6 col-sm-offset-3">
+                        <div class="row">
+                            @using (Html.BeginForm("index", null, FormMethod.Post, new {
+                                role = "form", @class = "default"
+                            })) {
+                                <div class="col-sm-12">
+                                    <div class="form-group">
+                                        @Html.TextBoxFor(m => m.login, new {@class = "form-control", placeholder = "Login"})
+                                        <br/>
+                                        @Html.PasswordFor(m => m.senha, new {@class = "form-control", placeholder = "Senha"})
+                                    </div>
+                                </div>
+                                <div class="col-sm-12">
+                                    <button type="submit" class="btn btn-primary bg-red btn-lg">Entrar</button><br/><br/>
+                                    <a href="@Url.Action("cadastrar")" class="btn btn-primary bg-red btn-lg">Cadastrar-se</a>
+                                </div>
+                            }
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="col-sm-6 text-center p-t-200">
+                <h1 class="wow fadeIn">
+                    Cliente
+                </h1>
+                <br/>
+                <div class="row">
+                    <div class="col-sm-6 col-sm-offset-3">
+                        <div class="row">
+                            <form role="form">
+                                <div class="col-sm-12">
+                                    <div class="form-group">
+                                        <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Login">
+                                    </div>
+                                </div>
+                                <div class="col-sm-12">
+                                    <button type="submit" class="btn btn-primary btn-lg">
+                                        <a href="search.html">
+                                            Entrar
+                                        </a>
+                                    </button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</header>
+	
+<!-- Javascript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="~/js/jquery-1.11.0.min.js"><\/script>')</script>
+<script src="~/js/wow.min.js"></script>
+<script src="~/js/bootstrap.min.js"></script>
+<script src="~/js/slick.js"></script>
+<script src="~/js/main.js"></script>
+</body>
+</html>

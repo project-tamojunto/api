@@ -1,0 +1,68 @@
+﻿@using WEB.Areas.Permissao.Helpers
+@model ApiHack.DAL.Entities.Servico
+@{
+    Layout = "~/Areas/Sistema/Views/Shared/masterpage-sistema.cshtml";
+}
+
+<div class="col-sm-12">
+    <h2>Cadastro de serviços</h2>
+    <br>
+    <div class="row">
+        @using (Html.BeginForm("editar", null, FormMethod.Post, new {
+            role = "form", @class = "form-alt"
+        })) {
+
+            @Html.HiddenFor(x => x.id)
+
+            <div class="col-sm-4">
+                <div class="form-group">
+                    <label>Titulo</label>
+                    @Html.TextBoxFor(x => x.nome, new {
+                        @class = "form-control"
+                    })
+                </div>
+            </div>
+
+            <div class="col-sm-4">
+                <div class="form-group">
+                    <label>Valor</label>
+                    @Html.TextBoxFor(x => x.preco, new {
+                        @class = "form-control"
+                    })
+                </div>
+            </div>
+
+            <div class="col-sm-4">
+                <div class="form-group">
+                    <label>Categoria</label>
+                    @Html.DropDownListFor(x => x.idCategoriaServico, CategoriaServicoHelper.getInstance.selectList(Model.idCategoriaServico), "Selecione...", new {@class = "form-control"})
+                </div>
+            </div>
+
+            <div class="clearfix"></div>
+
+            <div class="col-sm-4">
+                <div class="form-group">
+                    <label>Descrição</label>
+                    @Html.TextAreaFor(x => x.descricao, new {
+                        rows = 4, @class = "form-control"
+                    })
+                </div>
+            </div>
+
+            <div class="col-sm-4">
+                <div class="form-group">
+                    <label>Serviços Adicionais</label>
+                    @Html.TextAreaFor(x => x.servicosAdicionais, new {
+                        rows = 4, @class = "form-control"
+                    })
+                </div>
+            </div>
+
+            <div class="col-sm-12">
+                <a href="@Url.Action("index")" class="btn btn-default bg-grey btn-lg">Voltar</a>
+                <button type="submit" class="btn btn-primary btn-lg">Salvar</button>
+            </div>
+        }
+    </div>
+</div>

@@ -1,0 +1,183 @@
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\ApplicationInsights.config
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\roslyn\csc.exe
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\roslyn\csc.exe.config
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\roslyn\csc.rsp
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\roslyn\csi.exe
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\roslyn\csi.rsp
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\roslyn\System.AppContext.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\roslyn\System.Collections.Immutable.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\roslyn\System.IO.FileSystem.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\roslyn\vbc.exe
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\roslyn\vbc.exe.config
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\roslyn\vbc.rsp
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\roslyn\VBCSCompiler.exe
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\roslyn\VBCSCompiler.exe.config
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\ApiHack.dll.config
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\ApiHack.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\ApiHack.pdb
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\Antlr3.Runtime.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\EntityFramework.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\EntityFramework.SqlServer.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\Microsoft.AI.Web.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\Microsoft.AI.WindowsServer.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\Microsoft.ApplicationInsights.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\Microsoft.Web.Infrastructure.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\Newtonsoft.Json.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\System.Net.Http.Formatting.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\System.Web.Helpers.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\System.Web.Http.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\System.Web.Http.WebHost.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\System.Web.Mvc.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\System.Web.Optimization.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\System.Web.Razor.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\System.Web.WebPages.Deployment.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\System.Web.WebPages.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\System.Web.WebPages.Razor.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\WebGrease.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\EntityFramework.xml
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\EntityFramework.SqlServer.xml
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\Newtonsoft.Json.xml
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\System.Net.Http.Formatting.xml
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\System.Web.Helpers.xml
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\System.Web.Http.xml
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\System.Web.Http.WebHost.xml
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\System.Web.Mvc.xml
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\System.Web.Optimization.xml
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\System.Web.Razor.xml
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\System.Web.WebPages.xml
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\System.Web.WebPages.Deployment.xml
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\System.Web.WebPages.Razor.xml
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\Antlr3.Runtime.pdb
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\Microsoft.ApplicationInsights.xml
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\Microsoft.AI.WindowsServer.xml
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\Microsoft.AI.Web.xml
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\pt-br\System.Net.Http.Formatting.resources.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\pt-br\System.Web.Helpers.resources.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\pt-br\System.Web.Http.resources.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\pt-br\System.Web.Http.WebHost.resources.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\pt-br\System.Web.Mvc.resources.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\pt-br\System.Web.Optimization.resources.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\pt-br\System.Web.Razor.resources.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\pt-br\System.Web.WebPages.resources.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\obj\Debug\ApiHack.csprojResolveAssemblyReference.cache
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\obj\Debug\ApiHack.dll
+c:\users\charlesalbertodesous\documents\visual studio 2017\Projects\ApiHack\ApiHack\obj\Debug\ApiHack.pdb
+G:\Projetos\ApiHack\ApiHack\bin\ApplicationInsights.config
+G:\Projetos\ApiHack\ApiHack\bin\roslyn\csc.exe
+G:\Projetos\ApiHack\ApiHack\bin\roslyn\csc.exe.config
+G:\Projetos\ApiHack\ApiHack\bin\roslyn\csc.rsp
+G:\Projetos\ApiHack\ApiHack\bin\roslyn\csi.exe
+G:\Projetos\ApiHack\ApiHack\bin\roslyn\csi.rsp
+G:\Projetos\ApiHack\ApiHack\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Projetos\ApiHack\ApiHack\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Projetos\ApiHack\ApiHack\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Projetos\ApiHack\ApiHack\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Projetos\ApiHack\ApiHack\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Projetos\ApiHack\ApiHack\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Projetos\ApiHack\ApiHack\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Projetos\ApiHack\ApiHack\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Projetos\ApiHack\ApiHack\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Projetos\ApiHack\ApiHack\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Projetos\ApiHack\ApiHack\bin\roslyn\System.AppContext.dll
+G:\Projetos\ApiHack\ApiHack\bin\roslyn\System.Collections.Immutable.dll
+G:\Projetos\ApiHack\ApiHack\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Projetos\ApiHack\ApiHack\bin\roslyn\System.IO.FileSystem.dll
+G:\Projetos\ApiHack\ApiHack\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Projetos\ApiHack\ApiHack\bin\roslyn\System.Reflection.Metadata.dll
+G:\Projetos\ApiHack\ApiHack\bin\roslyn\vbc.exe
+G:\Projetos\ApiHack\ApiHack\bin\roslyn\vbc.exe.config
+G:\Projetos\ApiHack\ApiHack\bin\roslyn\vbc.rsp
+G:\Projetos\ApiHack\ApiHack\bin\roslyn\VBCSCompiler.exe
+G:\Projetos\ApiHack\ApiHack\bin\roslyn\VBCSCompiler.exe.config
+G:\Projetos\ApiHack\ApiHack\bin\ApiHack.dll.config
+G:\Projetos\ApiHack\ApiHack\bin\ApiHack.dll
+G:\Projetos\ApiHack\ApiHack\bin\ApiHack.pdb
+G:\Projetos\ApiHack\ApiHack\bin\Antlr3.Runtime.dll
+G:\Projetos\ApiHack\ApiHack\bin\EntityFramework.dll
+G:\Projetos\ApiHack\ApiHack\bin\EntityFramework.SqlServer.dll
+G:\Projetos\ApiHack\ApiHack\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Projetos\ApiHack\ApiHack\bin\Microsoft.AI.DependencyCollector.dll
+G:\Projetos\ApiHack\ApiHack\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Projetos\ApiHack\ApiHack\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Projetos\ApiHack\ApiHack\bin\Microsoft.AI.Web.dll
+G:\Projetos\ApiHack\ApiHack\bin\Microsoft.AI.WindowsServer.dll
+G:\Projetos\ApiHack\ApiHack\bin\Microsoft.ApplicationInsights.dll
+G:\Projetos\ApiHack\ApiHack\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Projetos\ApiHack\ApiHack\bin\Microsoft.Web.Infrastructure.dll
+G:\Projetos\ApiHack\ApiHack\bin\Newtonsoft.Json.dll
+G:\Projetos\ApiHack\ApiHack\bin\System.Net.Http.Formatting.dll
+G:\Projetos\ApiHack\ApiHack\bin\System.Web.Helpers.dll
+G:\Projetos\ApiHack\ApiHack\bin\System.Web.Http.dll
+G:\Projetos\ApiHack\ApiHack\bin\System.Web.Http.WebHost.dll
+G:\Projetos\ApiHack\ApiHack\bin\System.Web.Mvc.dll
+G:\Projetos\ApiHack\ApiHack\bin\System.Web.Optimization.dll
+G:\Projetos\ApiHack\ApiHack\bin\System.Web.Razor.dll
+G:\Projetos\ApiHack\ApiHack\bin\System.Web.WebPages.Deployment.dll
+G:\Projetos\ApiHack\ApiHack\bin\System.Web.WebPages.dll
+G:\Projetos\ApiHack\ApiHack\bin\System.Web.WebPages.Razor.dll
+G:\Projetos\ApiHack\ApiHack\bin\WebGrease.dll
+G:\Projetos\ApiHack\ApiHack\bin\EntityFramework.xml
+G:\Projetos\ApiHack\ApiHack\bin\EntityFramework.SqlServer.xml
+G:\Projetos\ApiHack\ApiHack\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Projetos\ApiHack\ApiHack\bin\Newtonsoft.Json.xml
+G:\Projetos\ApiHack\ApiHack\bin\System.Net.Http.Formatting.xml
+G:\Projetos\ApiHack\ApiHack\bin\System.Web.Helpers.xml
+G:\Projetos\ApiHack\ApiHack\bin\System.Web.Http.xml
+G:\Projetos\ApiHack\ApiHack\bin\System.Web.Http.WebHost.xml
+G:\Projetos\ApiHack\ApiHack\bin\System.Web.Mvc.xml
+G:\Projetos\ApiHack\ApiHack\bin\System.Web.Optimization.xml
+G:\Projetos\ApiHack\ApiHack\bin\System.Web.Razor.xml
+G:\Projetos\ApiHack\ApiHack\bin\System.Web.WebPages.xml
+G:\Projetos\ApiHack\ApiHack\bin\System.Web.WebPages.Deployment.xml
+G:\Projetos\ApiHack\ApiHack\bin\System.Web.WebPages.Razor.xml
+G:\Projetos\ApiHack\ApiHack\bin\Antlr3.Runtime.pdb
+G:\Projetos\ApiHack\ApiHack\bin\Microsoft.ApplicationInsights.xml
+G:\Projetos\ApiHack\ApiHack\bin\Microsoft.AI.DependencyCollector.xml
+G:\Projetos\ApiHack\ApiHack\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Projetos\ApiHack\ApiHack\bin\Microsoft.AI.WindowsServer.xml
+G:\Projetos\ApiHack\ApiHack\bin\Microsoft.AI.Web.xml
+G:\Projetos\ApiHack\ApiHack\bin\pt-br\System.Net.Http.Formatting.resources.dll
+G:\Projetos\ApiHack\ApiHack\bin\pt-br\System.Web.Helpers.resources.dll
+G:\Projetos\ApiHack\ApiHack\bin\pt-br\System.Web.Http.resources.dll
+G:\Projetos\ApiHack\ApiHack\bin\pt-br\System.Web.Http.WebHost.resources.dll
+G:\Projetos\ApiHack\ApiHack\bin\pt-br\System.Web.Mvc.resources.dll
+G:\Projetos\ApiHack\ApiHack\bin\pt-br\System.Web.Optimization.resources.dll
+G:\Projetos\ApiHack\ApiHack\bin\pt-br\System.Web.Razor.resources.dll
+G:\Projetos\ApiHack\ApiHack\bin\pt-br\System.Web.WebPages.resources.dll
+G:\Projetos\ApiHack\ApiHack\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+G:\Projetos\ApiHack\ApiHack\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+G:\Projetos\ApiHack\ApiHack\obj\Debug\ApiHack.csprojResolveAssemblyReference.cache
+G:\Projetos\ApiHack\ApiHack\obj\Debug\ApiHack.dll
+G:\Projetos\ApiHack\ApiHack\obj\Debug\ApiHack.pdb
+G:\Projetos\ApiHack\ApiHack\bin\PagedList.dll
+G:\Projetos\ApiHack\ApiHack\bin\PagedList.Mvc.dll
+G:\Projetos\ApiHack\ApiHack\bin\PagedList.xml
+G:\Projetos\ApiHack\ApiHack\bin\PagedList.Mvc.xml
+G:\Projetos\ApiHack\ApiHack\bin\FluentValidation.dll
+G:\Projetos\ApiHack\ApiHack\bin\FluentValidation.Mvc.dll
+G:\Projetos\ApiHack\ApiHack\bin\MvcFlashMessages.dll
+G:\Projetos\ApiHack\ApiHack\bin\FluentValidation.xml
+G:\Projetos\ApiHack\ApiHack\bin\FluentValidation.Mvc.xml

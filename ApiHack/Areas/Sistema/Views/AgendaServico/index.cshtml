@@ -1,0 +1,27 @@
+﻿@model List<ApiHack.DAL.Entities.AgendaServico>
+@{
+    Layout = "~/Areas/Sistema/Views/Shared/masterpage-sistema.cshtml";
+}
+
+<div class="col-sm-12">
+    
+    <h2 class="color-1">Agenda do Serviço <a href="@Url.Action("index", "Servico")" class="pull-right m-l-20"><i class="fa fa-reply"></i></a><a href="@Url.Action("editar", new {idServico = UtilRequest.getInt32("idServico")})" class="pull-right"><i class="fa fa-plus-square-o"></i></a> </h2>
+    <div class="row">
+        <ul class="list list-activities">
+
+            @foreach (var servico in Model) {
+                <li>
+                    <p>@(servico.data?.ToString("dd/MM/yyyy"))</p>
+
+                    <span class="local pull-right">@(servico.horarioIni?.Hours.ToString().PadLeft(2, '0') + ":" + servico.horarioIni?.Minutes.ToString().PadLeft(2, '0')) - @(servico.horarioFim?.Hours.ToString().PadLeft(2, '0') + ":" + servico.horarioFim?.Minutes.ToString().PadLeft(2, '0'))</span>
+
+                    <span class="local pull-right">@(servico.qtdVagas)</span>
+
+                    <span>
+                        <a href="@Url.Action("editar", new {id = servico.id})" style="margin-left: 20px;"><i class="fa fa-edit"></i></a>
+                    </span>
+                </li>
+            }
+        </ul>
+    </div>
+</div>

@@ -1,0 +1,55 @@
+﻿@using WEB.Areas.Permissao.Helpers
+@model ApiHack.DAL.Entities.AgendaServico
+@{
+    Layout = "~/Areas/Sistema/Views/Shared/masterpage-sistema.cshtml";
+}
+
+<div class="col-sm-12">
+    <h2 class="color-1">Adicionar Agenda do serviço </h2>
+    <br>
+    <div class="row">
+        @using (Html.BeginForm("editar", null, FormMethod.Post, new {
+            role = "form", @class = "form-alt"
+        })) {
+
+            @Html.HiddenFor(x => x.id)
+            @Html.HiddenFor(x => x.idServico)
+
+            <div class="col-sm-4">
+                <div class="form-group">
+                    <label>Data</label>
+                    @Html.TextBoxFor(x => x.data, Model.data?.ToString("dd/MM/yyyy"), new {@class = "form-control"})
+                </div>
+            </div>
+
+            <div class="col-sm-3">
+                <div class="form-group">
+                    <label>Hr. Inicio</label>
+                    @Html.TextBoxFor(x => x.horarioIni, new {@class = "form-control"})
+                </div>
+            </div>
+
+            <div class="col-sm-3">
+                <div class="form-group">
+                    <label>Hr. Fim</label>
+                    @Html.TextBoxFor(x => x.horarioFim, new {@class = "form-control"})
+                </div>
+            </div>
+
+            <div class="col-sm-2">
+                <div class="form-group">
+                    <label>Vagas</label>
+                    @Html.TextBoxFor(x => x.qtdVagas, new {@class = "form-control"})
+                </div>
+            </div>
+
+            <div class="clearfix"></div>
+
+
+            <div class="col-sm-12">
+                <a href="@Url.Action("index", new {idServico = UtilRequest.getInt32("idServico")})" class="btn btn-default bg-grey btn-lg">Voltar</a>
+                <button type="submit" class="btn btn-primary btn-lg">Salvar</button>
+            </div>
+        }
+    </div>
+</div>

@@ -1,0 +1,26 @@
+﻿@model List<ApiHack.DAL.Entities.Servico>
+@{
+    Layout = "~/Areas/Sistema/Views/Shared/masterpage-sistema.cshtml";
+}
+
+<div class="col-sm-12">
+    
+    <h2 class="color-1">Meus Serviços <a href="@Url.Action("editar")" class="pull-right"><i class="fa fa-plus-square-o"></i></a></h2>
+    <div class="row">
+    <ul class="list list-activities">
+
+        @foreach (var servico in Model) {
+            <li>
+                <p>@servico.nome</p>
+                <span class="local pull-right">@(servico.preco?.ToString("C"))</span>
+                <span class="local pull-right">@(servico.CategoriaServico?.descricao)</span>
+
+                <span>
+                    <a href="@Url.Action("editar", new {id = servico.id})" style="margin-left: 20px;"><i class="fa fa-edit"></i></a>
+                    <a href="@Url.Action("index", "AgendaServico", new {idServico = servico.id})" style="margin-left: 20px;"><i class="fa fa-book"></i></a>
+                </span>
+            </li>
+        }
+    </ul>
+</div>
+</div>
